@@ -1,0 +1,2 @@
+# Current-daily-price-of-various-commodities-from-various-markets-Mandi-
+Agricultural commodity prices play a crucial role in the economy of India, especially for farmers, traders, and policy makers. These prices vary daily depending on supply, demand, seasonality, weather conditions, and market trends. The primary markets where such transactions occur are called Mandis (regulated agricultural markets).
